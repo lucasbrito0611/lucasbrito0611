@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, meu nome é Lucas Brito 👋
 
-<!--
-**lucasbrito0611/lucasbrito0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 🔭 Atualmente trabalho no Centro de Soluções Aplicadas (CSA) como Desenvolvedor Web.
+- 🌱 Atualmente estudo <b>Python<b/>, <b>JavaScript</b> e <b>Wordpress<b/>.
 
-Here are some ideas to get you started:
+## Redes Sociais
+<div>
+  <a href="https://www.linkedin.com/in/lucas-brito-5a1a1427a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="mailto:lucasbps2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://instagram.com/lucasbritops" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+<div>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javaScript"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="figma"/>
+</div>
+
+## GitHub Stats
+<div>
+  <img height='220em' src="https://github-readme-stats.vercel.app/api?username=lucasbrito0611&show_icons=true&theme=dark"/>
+  <img height='220em' src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbrito0611&layout=donut&theme=dark"/>
+</div>
+
+

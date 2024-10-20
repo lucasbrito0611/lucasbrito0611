@@ -17,6 +17,7 @@
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javaScript"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="figma"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="figma"/>
 </div>

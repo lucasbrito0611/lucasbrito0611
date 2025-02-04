@@ -1,8 +1,7 @@
 # Olá, meu nome é Lucas Brito 👋
 
 ## Sobre mim
-- 🔭 Atualmente trabalho no Centro de Soluções Aplicadas (CSA) como Desenvolvedor Web.
-- 🌱 Atualmente estudo <b>Python<b/>, <b>JavaScript</b> e <b>Wordpress<b/>.
+- 🌱 Atualmente estudo <b>Python<b/>, <b>Django</b> e <b>JavaScript<b/>.
 
 ## Redes Sociais
 <div>

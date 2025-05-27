@@ -6,7 +6,7 @@
 ## Portfólio
 Para saber mais sobre meu trabalho, visualizar meu currículo, projetos e outras informações, acesse meu portfólio:
 
-https://lucasbrito-dev.vercel.app
+<a href="https://lucasbrito-dev.vercel.app" target="_blank">https://lucasbrito-dev.vercel.app</a>
 
 ## Redes Sociais
 <div>

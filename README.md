@@ -1,11 +1,16 @@
 # Olá, meu nome é Lucas Brito 👋
 
 ## Sobre mim
-- 🌱 Atualmente estudo <b>Python<b/>, <b>Django</b> e <b>JavaScript<b/>.
+- 🌱 Atualmente estudo no IFRN e aprendo tecnologias para o desenvolvimento full stack.
+
+## Portfólio
+Para saber mais sobre meu trabalho, visualizar meu currículo, projetos e outras informações, acesse meu portfólio:
+
+https://lucasbrito-dev.vercel.app
 
 ## Redes Sociais
 <div>
-  <a href="https://www.linkedin.com/in/lucas-brito-5a1a1427a/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/lucasbrito06" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   <a href="mailto:lucasbps2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"/></a>
   <a href="https://instagram.com/lucasbritops" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 </div>
@@ -15,6 +20,8 @@
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javaScript"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="react"/>
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="figma"/>
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma"/>

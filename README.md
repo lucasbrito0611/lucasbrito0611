@@ -6,13 +6,13 @@
 ## Portfólio
 Para saber mais sobre meu trabalho, visualizar meu currículo, projetos e outras informações, acesse meu portfólio:
 
-<a href="https://lucasbrito-dev.vercel.app" target="_blank">https://lucasbrito-dev.vercel.app</a>
+[https://lucasbrito-dev.vercel.app](https://lucasbrito-dev.vercel.app)
 
 ## Redes Sociais
 <div>
-  <a href="https://www.linkedin.com/in/lucasbrito06" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="mailto:lucasbps2006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"/></a>
-  <a href="https://instagram.com/lucasbritops" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/lucasbrito06"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:lucasbps2006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"/></a>
+  <a href="https://instagram.com/lucasbritops"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
 </div>
 
 ## Skills

@@ -1,7 +1,7 @@
 # Olá, meu nome é Lucas Brito 👋
 
 ## Sobre mim
-- 🌱 Atualmente estudo no IFRN e aprendo tecnologias para o desenvolvimento full stack.
+- 🌱 Graduando em Tecnologia da Informação pela UFRN e Técnico em Informática para Internet pelo IFRN. Utilizo tecnologias e ferramentes para desenvolvimento web fullstack
 
 ## Portfólio
 Para saber mais sobre meu trabalho, visualizar meu currículo, projetos e outras informações, acesse meu portfólio:

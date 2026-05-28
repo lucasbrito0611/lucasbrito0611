@@ -69,6 +69,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=lucasbrito0611&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=lucasbrito0611&layout=donut&theme=tokyonight&exclude_repo=Exercises-Python"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=lucasbrito0611&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucasbrito0611&layout=donut&theme=tokyonight&exclude_repo=Exercises-Python"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=lucasbrito0611&theme=tokyonight&hide_current_streak=true"/>
 </div>

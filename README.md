@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  Desenvolvo aplicações web completas, atuando no <b>front-end</b> com React, JavaScript e TypeScript,
-  e no <b>back-end</b> com Python + Django REST e PHP + Laravel.
+  Desenvolvo aplicações web completas, atuando no <b>front-end</b> com React, Next.js, JavaScript e TypeScript,
+  e no <b>back-end</b> com PHP + Laravel, Python + Django REST e Node.js + NestJS.
   <br/>
-  Atualmente estagiário de desenvolvimento front-end na <b>Maxmeio</b>.
+  Atualmente estagiário de desenvolvimento <b>fullstack</b> na <b>Maxmeio Tecnologia</b>.
 </p>
 
 <p align="center">
@@ -35,6 +35,15 @@
 
 ---
 
+## 🚀 Projetos em Destaque
+
+- **[Portfólio Pessoal](https://lucasbrito-dev.vercel.app)** — SPA em React consumindo uma API própria construída em NestJS, demonstrando arquitetura fullstack autônoma.
+- **[PowerUP](https://powerupoficial.vercel.app)** — E-commerce fullstack fitness com painel administrativo para gestão de estoque e monitoramento de lotes próximos do vencimento. Front-end em Next.js 15 + React 19 + TypeScript, back-end em Django REST Framework com PostgreSQL (Neon), autenticação via JWT (cookies HttpOnly) e Google OAuth 2.0.
+- **[Gentil Negócios](https://gentilnegocios.com.br)** — Portal do maior multifranqueado do Grupo Boticário no Brasil, disponível em 3 idiomas, desenvolvido com Laravel e integração de APIs REST.
+- **[Visit Natal](https://visit.natal.br)** — Site oficial da Secretaria de Turismo de Natal, disponível em 6 idiomas.
+
+---
+
 ## 🛠️ Skills
 
 ### Front-end
@@ -51,15 +60,25 @@
 
 ### Back-end
 <div>
+  <img height="45" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+  <img height="45" title="NestJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" alt="NestJS"/>
   <img height="45" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
   <img height="45" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django"/>
   <img height="45" title="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"/>
   <img height="45" title="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel"/>
 </div>
 
+### Banco de Dados
+<div>
+  <img height="45" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+  <img height="45" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img height="45" title="SQLite" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite"/>
+</div>
+
 ### Ferramentas & Outros
 <div>
   <img height="45" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git"/>
+  <img height="45" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker"/>
   <img height="45" title="WordPress" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress"/>
   <img height="45" title="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma"/>
 </div>
